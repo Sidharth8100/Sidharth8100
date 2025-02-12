@@ -4,14 +4,15 @@
 I'm a passionate **B.Tech student at IIT Jodhpur** with a deep interest in **Data Structures & Algorithms, Machine Learning, and App Development**. My journey revolves around solving complex problems, optimizing traditional approaches, and building impactful projects. 
 
 📌 Currently, I am:
-- Researching **N-P Hard Problems** & optimization techniques under **Prof. Tanmay Nitin Inamdar**.
+- Creating a  full stack mobile app with advanced DL and ML features which would enhance the experience of comics
+-  and make it accessible to all (specially abled).
 - Exploring AI-driven solutions and working on **full-stack mobile applications**.
-- Actively contributing to open-source and competitive coding.
+- Actively contributing to open-source and grinding on LEETCODE.
 
 ---
 
 ### 🔥 Experience
-**🔹 Research Design Credit** @ IIT Jodhpur _(May 2024 – Present)_  
+**🔹 Research Design Credit** @ IIT Jodhpur _(August 2024 – December 2024)_  
 - Gained hands-on experience in **DAA and DSA** by analyzing a diverse range of computational problems.
 - Worked on **optimizing problem-solving strategies** using dynamic programming and heuristics.
 - Studied and implemented **Traveling Salesman Problem (N-P Hard)** solutions.
